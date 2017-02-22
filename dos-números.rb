@@ -1,6 +1,6 @@
 puts "Give me two numbers and I will tell you all the numbers between them that are prime."
 
-puts "To get started, what is your starting number?
+puts "To get started, what is your starting number?"
 num = gets.to_i
 
 puts "Excellent, and what is your ending number?"
